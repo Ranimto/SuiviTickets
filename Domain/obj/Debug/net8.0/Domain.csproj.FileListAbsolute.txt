@@ -1,0 +1,46 @@
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\Donet project\AuthentificationAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Donet project\AuthentificationAPI\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Domain\obj\Debug\net8.0\ref\Domain.dll

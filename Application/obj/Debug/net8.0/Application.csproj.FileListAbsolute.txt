@@ -1,0 +1,53 @@
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Ranim\Desktop\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.deps.json
+D:\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.dll
+D:\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Application.pdb
+D:\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Domain.dll
+D:\Donet project\AuthentificationAPI\Application\bin\Debug\net8.0\Domain.pdb
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.dll
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\Application.pdb
+D:\Donet project\AuthentificationAPI\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.pdb
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\bin\Debug\net8.0\Application.deps.json
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\bin\Debug\net8.0\Application.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\bin\Debug\net8.0\Application.pdb
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\bin\Debug\net8.0\Domain.dll
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\bin\Debug\net8.0\Domain.pdb
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Donet project\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Users\Ranim\Desktop\Projet3_Plateforme de gestion et suivi des tickets IT\SuiviTickets_Clean_Architecture\Application\obj\Debug\net8.0\Application.pdb

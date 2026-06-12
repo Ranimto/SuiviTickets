@@ -1,0 +1,1719 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\attachements\\commands\\createattachementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\attachements\\commands\\createattachementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\attachements\\commands\\createattachementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\attachements\\commands\\createattachementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\interfaces\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\attachements\\commands\\createattachementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\attachements\\commands\\createattachementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\createcategory\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\createcategory\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\createcategory\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\createcategory\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\updatecomment\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\updatecomment\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyid\\getcommentsbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getallcomments\\getallcommentsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getallcomments\\getallcommentsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getcommentsbyticketid\\getcommentsbyticketidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getallcomments\\getallcommentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getallcomments\\getallcommentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\queries\\getallcomments\\getallcommentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\queries\\getallcomments\\getallcommentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\updatecomment\\updatecommentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\updatecomment\\updatecommentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\persistances\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistances\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\interfaces\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getticketbyid\\getticketbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getticketbyid\\getticketbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\persistances\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistances\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\updatecomment\\updatecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\updatecomment\\updatecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getalltickets\\getallticketshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getalltickets\\getallticketshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getalltickets\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getalltickets\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getalltickets\\getallticketsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getalltickets\\getallticketsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\deletecomment\\deletecommentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\deletecomment\\deletecommentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\deletecomment\\deletecommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\deletecomment\\deletecommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\deletecomment\\deletecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\deletecomment\\deletecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getticketbyid\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getticketbyid\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\queries\\getticketbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\queries\\getticketbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\createcomment\\createcommenttvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\createcomment\\createcommenttvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\createcomment\\createcommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\createcomment\\createcommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\comments\\commands\\createcomment\\createcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\comments\\commands\\createcomment\\createcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getcategorybyid\\getcategorybyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getallcategories\\getallcategoriesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getallcategories\\getallcategoriesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getallcategories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getallcategories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\queries\\getallcategories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\queries\\getallcategories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\updatecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\updatecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\updatecategory\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\updatecategory\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\updatecategory\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\updatecategory\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\deletecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\deletecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\deletecategory\\deletecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\deletecategory\\deletecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\deletecategory\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\deletecategory\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\categories\\commands\\createcategory\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\categories\\commands\\createcategory\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\persistances\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistances\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\persistances\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistances\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\deleteticket\\deleteticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\deleteticket\\deleteticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\createticket\\createtickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\createticket\\createtickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\createticket\\createticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\createticket\\createticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Queries\\GetCategoryById\\GetTicketByIdQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\common\\mappings\\categorymappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\categorymappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\createticket\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\createticket\\createticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\deleteticket\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\deleteticket\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\deleteticket\\deleteticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\deleteticket\\deleteticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\communs\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\communs\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\communs\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\communs\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\updateticket\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\updateticket\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\updateticket\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\updateticket\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\tickets\\commands\\updateticket\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\tickets\\commands\\updateticket\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\interfaces\\irepository\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irepository\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\mapsterconfig\\authmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mapsterconfig\\authmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\common\\mappings\\ticketmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\ticketmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\common\\mappings\\commentmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\commentmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Ticket\\Commands\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\suiviticketsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\suiviticketsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\persistances\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistances\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\configurations\\tickethistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\tickethistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\configurations\\attachmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\attachmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{909BF18F-8437-425B-8D59-8B80A013CACA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\communs\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\communs\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D63E5AD-D88A-40AB-A8C5-067BD73953A9}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\authentificationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5024A-ED58-45D9-A403-608DD112F8A8}|AuthentificationAPI\\SuiviTicketsAPI.csproj|solutionrelative:authentificationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|d:\\users\\ranim\\desktop\\projet3_plateforme de gestion et suivi des tickets it\\suivitickets_clean_architecture\\domain\\events\\ticketcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50F9033-1BBE-4109-948C-3CC30635DA59}|Domain\\Domain.csproj|solutionrelative:domain\\events\\ticketcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateAttachementHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Attachements\\Commands\\CreateAttachementHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Attachements\\Commands\\CreateAttachementHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:33:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:50:55.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAttachementCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Attachements\\Commands\\CreateAttachementCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Attachements\\Commands\\CreateAttachementCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:22:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAttachementValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Attachements\\Commands\\CreateAttachementValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Attachements\\Commands\\CreateAttachementValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Attachements\\Commands\\CreateAttachementValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:22:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:52:28.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:01:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttachmentDto.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\AttachmentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AttachmentDto.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\AttachmentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\AttachmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T17:24:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCommentsByIdValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:38:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCommentsByIdQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:34:16.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCommentsByTicketIdHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:02:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTicketCommandHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateTicketCommandHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateTicketCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateTicketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:45:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetCommentsByIdHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsById\\GetCommentsByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:33:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetCommentsByTicketIdValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:25:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCommentsValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:19:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCommentsByTicketIdQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetCommentsByTicketId\\GetCommentsByTicketIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:07:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllCommentsHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:15:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllCommentsQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Queries\\GetAllComments\\GetAllCommentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:16:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateCommentValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:06:34.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistances\\Repository\\CommentRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistances\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:25:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRepository\\ICommentRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\ICommentRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRepository\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T15:24:24.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetTicketByIdHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:43:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistances\\Repository\\EfRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistances\\Repository\\EfRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vzgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:18:53.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateCommentCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\UpdateComment\\UpdateCommentCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:45:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllTicketsHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:46:16.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PagedResult.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "Application\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:40:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllTicketsQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:46:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllTicketsValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetAllTickets\\GetAllTicketsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:47:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteCommentValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:54:26.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteCommentHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:55.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteCommentCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\DeleteComment\\DeleteCommentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateTicketValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\UpdateTicketValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetTicketById\\UpdateTicketValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\UpdateTicketValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetTicketById\\UpdateTicketValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:49:48.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Queries\\GetTicketById\\GetTicketByIdQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:43:06.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:57:51.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateCommenttValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommenttValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommenttValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommenttValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommenttValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:51:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCommentHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:37:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateCommentCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Comments\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:37:03.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetCategoryByIdValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:05:24.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:04:55.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetCategoryByIdHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:04:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllCategoriesValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:04:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllCategoriesQuery.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:04:24.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:04:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:03:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:03:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:03:12.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:03:00.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:02:56.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:02:38.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:02:26.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T22:19:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:17:59.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistances\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistances\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:45:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistances\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistances\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAqwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:56:11.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeleteTicketCommandHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:50:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateTicketCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:23:12.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateTicketHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:23:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Queries\\GetCategoryById\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Queries\\GetCategoryById\\GetTicketByIdQuery.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Queries\\GetCategoryById\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Queries\\GetCategoryById\\GetTicketByIdQuery.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T17:06:55.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:48:06.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\TicketDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TicketDto.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\DTOs\\TicketDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\TicketDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:51:01.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DeleteCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:49:02.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\DeleteCategory\\UpdateCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T17:03:45.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UpdateCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:38:32.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:16:25.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:23:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:38:28.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:37:28.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Category\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:30:41.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:12:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryMappingConfig.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\CategoryMappingConfig.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\CategoryMappingConfig.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\CategoryMappingConfig.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\CategoryMappingConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:08:26.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateTicketValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\CreateTicket\\CreateTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:41:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteTicketCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:50:31.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DeleteTicketValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:00:29.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:57:15.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Communs\\AuditableEntity.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\AuditableEntity.cs",
+              "RelativeToolTip": "Domain\\Communs\\AuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:01:56.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Communs\\BaseEntity.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Communs\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:01:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateTicketValidator.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:27:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UpdateTicketCommandHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:01:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateTicketCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommand.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:00:14.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRepository\\ITicketRepository.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Interfaces\\IRepository\\ITicketRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRepository\\ITicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:33:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AuthMappingConfig.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\MapsterConfig\\AuthMappingConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MapsterConfig\\AuthMappingConfig.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\MapsterConfig\\AuthMappingConfig.cs",
+              "RelativeToolTip": "Infrastructure\\MapsterConfig\\AuthMappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:11:56.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TicketMappingConfig.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\TicketMappingConfig.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\TicketMappingConfig.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\TicketMappingConfig.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\TicketMappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:04:08.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthentificationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-01T21:21:14.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CommentMappingConfig.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\CommentMappingConfig.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\CommentMappingConfig.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Common\\Mappings\\CommentMappingConfig.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\CommentMappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:19:03.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\appsettings.json",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\appsettings.json",
+              "RelativeToolTip": "AuthentificationAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-01T21:22:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistances\\ApplicationDbContextFactory.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Persistances\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistances\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvw0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:52:22.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\Program.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Program.cs",
+              "RelativeToolTip": "AuthentificationAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:19:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TicketHistoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\TicketHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\TicketHistoryConfiguration.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\TicketHistoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\TicketHistoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T20:59:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:40:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Ticket\\Commands\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Ticket\\Commands\\Class1.cs",
+              "ToolTip": "D:\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Ticket\\Commands\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Donet project\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Ticket\\Commands\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:42:50.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SuiviTicketsAPI.csproj",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\SuiviTicketsAPI.csproj",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\SuiviTicketsAPI.csproj",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\SuiviTicketsAPI.csproj",
+              "RelativeToolTip": "AuthentificationAPI\\SuiviTicketsAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T22:20:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:46:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:45:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AttachmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\AttachmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\AttachmentConfiguration.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\AttachmentConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\AttachmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:45:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CommentConfiguration.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\CommentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\CommentConfiguration.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Configurations\\CommentConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\CommentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:16:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Enums\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TicketStatus.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Enums\\TicketStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\TicketStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T22:05:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:46:51.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TicketHistory.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\TicketHistory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TicketHistory.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\TicketHistory.cs",
+              "RelativeToolTip": "Domain\\Entities\\TicketHistory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:12:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Communs\\DomainEvent.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Communs\\DomainEvent.cs",
+              "RelativeToolTip": "Domain\\Communs\\DomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:02:23.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T22:18:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Application\\Features\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwKIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:18:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthentificationAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:15:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthentificationAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\AuthentificationAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthentificationAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:17:19.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T22:07:47.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Attachment.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:58:56.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "TicketCreatedEvent.cs",
+              "DocumentMoniker": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Events\\TicketCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\TicketCreatedEvent.cs",
+              "ToolTip": "D:\\Users\\Ranim\\Desktop\\Projet3_Plateforme de gestion et suivi des tickets IT\\SuiviTickets_Clean_Architecture\\Domain\\Events\\TicketCreatedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\TicketCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T22:08:12.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
